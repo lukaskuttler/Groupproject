@@ -1,0 +1,7 @@
+Summary of the project:
+This project is a digital portfolio management system that helps users track and analyze their investments automatically. It allows investors to add stocks, monitor current market values, calculate profits or losses, and evaluate overall portfolio performance.
+The program retrieves real-time financial data and computes key metrics such as total value, unrealized gains, volatility, and risk-adjusted performance. It can compare the portfolio against the S&P 500, provide rebalancing suggestions, visualize asset allocation, and generate a professional PDF report summarizing the results.
+By combining programming, financial analysis, and optional AI-generated commentary, the project simulates the type of tools used by wealth managers and investment firms. Its purpose is to turn raw market data into clear, structured insights that support better investment decisions.
+
+Risk snapshot (volatility, worst/best day, correlation text)
+Portfolio vs S&P500 comparison
